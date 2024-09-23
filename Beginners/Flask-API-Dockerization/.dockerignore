@@ -1,0 +1,11 @@
+.venv
+venv
+/.venv
+\.venv
+
+
+Dockerfile
+.dockerignore
+
+/Dockerfile
+/.dockerignore
